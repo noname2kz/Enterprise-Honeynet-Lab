@@ -6,13 +6,13 @@ Phần này trình bày quá trình giám sát và phân tích lưu lượng m�
 ## 1. Giám sát lưu lượng mạng
 
 **Mục tiêu:** Theo dõi các kết nối mạng giữa các máy chủ, xác định nguồn, đích và các dịch vụ được truy cập.
-![Giám sát lưu lượng mạng](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log01.png)
+![Giám sát lưu lượng mạng](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log02.png)
 
 
 ## 2. Phân tích cảnh báo Suricata
 
 **Mục tiêu:** Phân tích các cảnh báo được Suricata ghi nhận trong quá trình mô phỏng tấn công.
-![Giám sát lưu lượng mạng](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log02.png)
+![Giám sát lưu lượng mạng](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log01.png)
 
 ## 3. Kết quả phân tích
 
