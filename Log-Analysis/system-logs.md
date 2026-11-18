@@ -7,17 +7,24 @@ Phần này trình bày quá trình thu thập và phân tích nhật ký từ c
 
 **Mục tiêu:** Thu thập nhật ký từ các máy chủ và dịch vụ được triển khai trong môi trường thử nghiệm.
 
-### Hình ảnh thực nghiệm
-
-![Thu thập nhật ký hệ thống](assets/log03.png)
+![Phân tích hoạt động truy cập](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log02.png)
 
 ## 2. Phân tích hoạt động truy cập
 
 **Mục tiêu:** Theo dõi và phân tích các hoạt động truy cập vào những dịch vụ được triển khai trên máy chủ Honeypot.
 
-### Hình ảnh thực nghiệm
+Log ở vùng DMZ ghi nhận các log từ Gobuster, Hydra
+![Phân tích hoạt động truy cập](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log04.png)
+![Phân tích hoạt động truy cập](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log05.png)
+![Phân tích hoạt động truy cập](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log06.png)
 
-![Phân tích hoạt động truy cập](assets/log04.png)
+Log ở vùng ftp-honeypot ghi nhận các log đăng nhập anonymous
+![Phân tích hoạt động truy cập](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log07.png)
+
+Log ở vùng db-honeypot & web-honeypot ghi nhận các log Hydra
+![Phân tích hoạt động truy cập](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log08.png)
+
+![Phân tích hoạt động truy cập](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log09.png)
 
 ## 3. Kết quả phân tích
 
