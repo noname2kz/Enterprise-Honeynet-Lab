@@ -7,16 +7,16 @@ Thư mục này ghi lại quá trình mô phỏng các giai đoạn tấn công 
 
 Thực hiện trinh sát mạng và mô phỏng các kỹ thuật khai thác nhằm đạt được quyền truy cập ban đầu vào hệ thống.
 
-[**Xem chi tiết**](init.md)
+[**Xem chi tiết**](Init-Access.md)
 
 ## 2. Hoạt động sau khai thác (Post-Exploitation)
 
 Thực hiện các hoạt động sau khi có quyền truy cập ban đầu, bao gồm trinh sát nội bộ, thu thập thông tin và leo thang đặc quyền.
 
-[**Xem chi tiết**](postex.md)
+[**Xem chi tiết**](Post-Exploitation.md)
 
 ## 3. Di chuyển ngang (Lateral Movement)
 
 Mô phỏng quá trình di chuyển giữa các máy tính trong mạng nội bộ nhằm đánh giá khả năng kiểm soát truy cập và mức độ an toàn của hệ thống.
 
-[**Xem chi tiết**](lateral.md)
+[**Xem chi tiết**](Lateral-Movement.md)
