@@ -10,6 +10,7 @@ Phần này trình bày quá trình trinh sát và khai thác các dịch vụ t
 ### Hình ảnh thực nghiệm
 Dùng Nmap để tiến hành scan các service đang chạy
 ![Trinh sát mạng](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init01.png)
+
 Dùng gobuster để tiến hành dò các thư mục ẩn
 ![Dò thư mục ẩn](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init02.png)
 
