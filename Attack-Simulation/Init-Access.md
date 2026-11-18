@@ -9,7 +9,8 @@ Phần này trình bày quá trình trinh sát và khai thác các dịch vụ t
 
 ### Hình ảnh thực nghiệm
 
-![Trinh sát mạng](assets/init01.png)
+![Trinh sát mạng](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init01.png)
+![Dò thư mục ẩn]https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init02.png
 
 ## 2. Tấn công dò mật khẩu (Brute Force)
 
