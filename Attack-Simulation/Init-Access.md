@@ -20,7 +20,7 @@ Dùng gobuster để tiến hành dò các thư mục ẩn
 
 ### Hình ảnh thực nghiệm
 
-![Dò mật khẩu](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init02.png)
+![Dò mật khẩu](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init03.png)
 
 ## 3. Khai thác lỗ hổng File Upload to RCE
 
@@ -28,8 +28,8 @@ Dùng gobuster để tiến hành dò các thư mục ẩn
 
 ### Hình ảnh thực nghiệm
 Khai thác lỗ hổng upload file và tiến hành upload webshell thực thi lệnh OS
-![Upload File](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init02.png)
+![Upload File](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init04.png)
 
 Có được foothold thông qua webshell
-![Reverse Shell](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init02.png)
+![Reverse Shell](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init05.png)
 
