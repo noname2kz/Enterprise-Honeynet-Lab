@@ -29,11 +29,9 @@ Hệ thống được chia thành nhiều phân vùng mạng khác nhau:
 
 Dự án mô phỏng các giai đoạn khác nhau của một cuộc tấn công:
 
-1. Network Reconnaissance (Trinh sát mạng).
-2. Initial Access and Exploitation (Xâm nhập ban đầu và khai thác).
-3. Internal Reconnaissance (Trinh sát mạng nội bộ).
-4. Lateral Movement (Di chuyển ngang).
-5. Log Collection and Analysis (Thu thập và phân tích nhật ký).
+1. **Network Reconnaissance:** Trinh sát và thu thập thông tin về hệ thống mạng.
+2. **Initial Access & Exploitation:** Xâm nhập ban đầu và khai thác các dịch vụ trong môi trường thử nghiệm.
+3. **Post-Exploitation & Lateral Movement:** Thực hiện các hoạt động sau khai thác, trinh sát nội bộ, leo thang đặc quyền và di chuyển ngang giữa các máy trong mạng.
 
 ## Giám sát và phân tích nhật ký
 
