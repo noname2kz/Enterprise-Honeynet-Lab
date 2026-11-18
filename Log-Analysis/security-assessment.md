@@ -28,6 +28,7 @@ Phần này tổng hợp kết quả đánh giá an toàn thông tin dựa trên
 Dựa trên kết quả thử nghiệm, đề xuất một số biện pháp nhằm cải thiện khả năng bảo vệ hệ thống:
 
 - **Tăng cường xác thực:** Sử dụng mật khẩu mạnh, giới hạn số lần đăng nhập thất bại và áp dụng cơ chế xác thực nhiều lớp khi phù hợp.
+- **Check log web thường xuyên:** Để hạn chế các cuộc tấn công DDOS, Brute-Force, các lỗ hổng OWASP. 
 - **Kiểm soát truy cập:** Áp dụng nguyên tắc đặc quyền tối thiểu và giới hạn quyền truy cập giữa các máy chủ.
 - **Cấu hình Firewall:** Xây dựng các quy tắc lọc lưu lượng phù hợp, chỉ cho phép các kết nối cần thiết.
 - **Cải thiện giám sát:** Tối ưu luật phát hiện của Suricata và thường xuyên kiểm tra nhật ký hệ thống.
