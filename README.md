@@ -23,7 +23,7 @@ Hệ thống được chia thành nhiều phân vùng mạng khác nhau:
 - **DMZ:** Triển khai các dịch vụ hướng ra bên ngoài và Web Honeypot.
 - **LAN1:** Phân vùng mạng nội bộ thứ nhất.
 - **LAN2:** Triển khai các dịch vụ FTP Honeypot.
-- **LAN3:** Triển khai Database Honeypot & Web Honeypot kết hợp máy Windows 7 Core nhằm lừa hacker tải mã độc về.
+- **LAN3:** Triển khai Database Honeypot & Web Honeypot kết hợp máy Windows 7 (OPERATOR-CORE) nhằm đánh lừa attacker.
 
 ## Mô phỏng tấn công
 
