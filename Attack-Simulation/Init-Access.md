@@ -20,12 +20,16 @@ Dùng gobuster để tiến hành dò các thư mục ẩn
 
 ### Hình ảnh thực nghiệm
 
-![Brute Force](assets/init02.png)
+![Dò mật khẩu](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init02.png)
 
 ## 3. Khai thác lỗ hổng File Upload to RCE
 
 **Mục tiêu:** Khai thác chức năng tải tệp thiếu an toàn nhằm đạt được quyền truy cập ban đầu vào hệ thống thử nghiệm.
 
 ### Hình ảnh thực nghiệm
+Khai thác lỗ hổng upload file và tiến hành upload webshell thực thi lệnh OS
+![Upload File](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init02.png)
 
-![File Upload](assets/init03.png)
+Có được foothold thông qua webshell
+![Reverse Shell](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init02.png)
+
