@@ -13,10 +13,6 @@ Phần này tổng hợp kết quả đánh giá an toàn thông tin dựa trên
 - Các điểm yếu liên quan đến xác thực và kiểm soát truy cập.
 - Những rủi ro phát sinh từ các dịch vụ được triển khai trong hệ thống.
 
-### Hình ảnh thực nghiệm
-
-![Tổng hợp điểm yếu bảo mật](assets/assessment01.png)
-
 ## 2. Đánh giá hiệu quả hệ thống bảo vệ
 
 **Mục tiêu:** Đánh giá khả năng giám sát, phát hiện và kiểm soát hoạt động tấn công của các thành phần bảo mật.
@@ -26,10 +22,6 @@ Phần này tổng hợp kết quả đánh giá an toàn thông tin dựa trên
 - **pfSense:** Đánh giá khả năng lọc lưu lượng và kiểm soát truy cập giữa các phân vùng mạng.
 - **Suricata:** Đánh giá khả năng phát hiện và ghi nhận các hoạt động mạng bất thường.
 - **Network Segmentation:** Đánh giá hiệu quả phân chia mạng và giới hạn kết nối giữa các phân vùng.
-
-### Hình ảnh thực nghiệm
-
-![Đánh giá hệ thống bảo vệ](assets/assessment02.png)
 
 ## 3. Đề xuất biện pháp bảo mật
 
