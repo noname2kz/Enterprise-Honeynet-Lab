@@ -7,7 +7,6 @@ Phần này trình bày quá trình trinh sát và khai thác các dịch vụ t
 
 **Mục tiêu:** Thu thập thông tin về các máy chủ đang hoạt động, cổng mạng mở và dịch vụ được triển khai trong hệ thống.
 
-### Hình ảnh thực nghiệm
 Dùng Nmap để tiến hành scan các service đang chạy
 ![Trinh sát mạng](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init01.png)
 
@@ -18,7 +17,6 @@ Dùng gobuster để tiến hành dò các thư mục ẩn
 
 **Mục tiêu:** Mô phỏng kỹ thuật dò mật khẩu đối với các dịch vụ được triển khai trong môi trường thử nghiệm.
 
-### Hình ảnh thực nghiệm
 
 ![Dò mật khẩu](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init03.png)
 
@@ -26,7 +24,6 @@ Dùng gobuster để tiến hành dò các thư mục ẩn
 
 **Mục tiêu:** Khai thác chức năng tải tệp thiếu an toàn nhằm đạt được quyền truy cập ban đầu vào hệ thống thử nghiệm.
 
-### Hình ảnh thực nghiệm
 Khai thác lỗ hổng upload file và tiến hành upload webshell thực thi lệnh OS
 ![Upload File](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/init04.png)
 
