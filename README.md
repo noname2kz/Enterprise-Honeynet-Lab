@@ -18,6 +18,7 @@ Hệ thống sử dụng pfSense làm Firewall và Router, Suricata để giám 
 ## Kiến trúc mạng
 
 Hệ thống được chia thành nhiều phân vùng mạng khác nhau:
+![Screenshot 1](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/assets/SoDoMang.png)
 
 - **DMZ:** Triển khai các dịch vụ hướng ra bên ngoài và Web Honeypot.
 - **LAN1:** Phân vùng mạng nội bộ thứ nhất.
