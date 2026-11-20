@@ -5,8 +5,6 @@ Phần này tổng hợp kết quả đánh giá an toàn thông tin dựa trên
 
 ## 1. Tổng hợp lỗ hổng và điểm yếu
 
-**Mục tiêu:** Ghi nhận các lỗ hổng, cấu hình sai và những vấn đề bảo mật được phát hiện trong quá trình thử nghiệm.
-
 ### Kết quả đánh giá
 
 - Các dịch vụ có cấu hình bảo mật chưa phù hợp.
@@ -14,8 +12,6 @@ Phần này tổng hợp kết quả đánh giá an toàn thông tin dựa trên
 - Những rủi ro phát sinh từ các dịch vụ được triển khai trong hệ thống.
 
 ## 2. Đánh giá hiệu quả hệ thống bảo vệ
-
-**Mục tiêu:** Đánh giá khả năng giám sát, phát hiện và kiểm soát hoạt động tấn công của các thành phần bảo mật.
 
 ### Các thành phần đánh giá
 
