@@ -5,13 +5,9 @@ Phần này trình bày quá trình thu thập và phân tích nhật ký từ c
 
 ## 1. Thu thập nhật ký hệ thống
 
-**Mục tiêu:** Thu thập nhật ký từ các máy chủ và dịch vụ được triển khai trong môi trường thử nghiệm.
-
 ![Phân tích hoạt động truy cập](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log02.png)
 
 ## 2. Phân tích hoạt động truy cập
-
-**Mục tiêu:** Theo dõi và phân tích các hoạt động truy cập vào những dịch vụ được triển khai trên máy chủ Honeypot.
 
 Log ở vùng DMZ ghi nhận các log từ Gobuster, Hydra
 ![Phân tích hoạt động truy cập](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/assests/log04.png)
