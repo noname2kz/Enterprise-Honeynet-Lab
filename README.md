@@ -36,6 +36,7 @@ Dự án mô phỏng các giai đoạn khác nhau của một cuộc tấn công
 
 ## Giám sát và phân tích nhật ký
 [View-Log-Analyst](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Log-Analysis/Readme.md)
+
 Suricata kết hợp với nhật ký hệ thống được sử dụng để giám sát hoạt động mạng, phát hiện các dấu hiệu bất thường và phân tích hành vi của attacker trong quá trình mô phỏng tấn công.
 
 ## Trạng thái dự án
