@@ -26,7 +26,7 @@ Hệ thống được chia thành nhiều phân vùng mạng khác nhau:
 - **LAN3:** Triển khai Database Honeypot & Web Honeypot kết hợp máy Windows 7 (OPERATOR-CORE) nhằm đánh lừa attacker.
 
 ## Mô phỏng tấn công
-![Attack-Simulation](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/Readme.md)
+[Attack-Simulation](https://github.com/noname2kz/Enterprise-Honeynet-Lab/blob/main/Attack-Simulation/Readme.md)
 
 Dự án mô phỏng các giai đoạn khác nhau của một cuộc tấn công:
 
